@@ -1,0 +1,5 @@
+# Versions used for the reported results (see environment files in each folder)
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+# Python 3.13.16. Earlier stage-2/2A runs: Python 3.12.3, numpy 2.4.4, scipy 1.17.1, pandas 3.0.2

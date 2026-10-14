@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "oneheart-sim: code and data for a cross-feeding pair model of pathogen exclusion in the gut"
+type: software
+authors:
+  - family-names: Yamada
+    given-names: Akihiko
+    orcid: "https://orcid.org/0000-0003-4904-7072"
+    affiliation: "Seoul National University"
+license: MIT
+repository-code: "https://github.com/aki5413/oneheart-sim"
+version: "1.0.0"
+date-released: "2026-10-14"
+keywords: [gut microbiome, colonization resistance, cross-feeding, bistability, mathematical model]

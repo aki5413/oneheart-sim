@@ -1,0 +1,6 @@
+Python 3.13.16
+numpy 2.5.3
+scipy 1.18.1
+pandas 3.0.5
+seed 20261010
+T_END 2000  HI 2.0

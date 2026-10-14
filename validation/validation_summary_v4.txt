@@ -1,0 +1,6 @@
+Rio15 batch validation, model v4 (B releases breakdown products M usable by F)
+Python 3.13.16, numpy 2.5.3, scipy 1.18.1
+Representative set: lk=0.5 muF=0.4 eps=0.05 YF=0.1 omega=0.05 wM=1 KM=0.5; B0=F0=0.05
+co-culture Bu24=10.0 mM (Rio15 ~8); acetate peak 7.5 mM @8h then 1.8 mM @24h; B alone Ac24=9.9; F alone Bu=0.00; starch-like Bu=1.6 (Rio15 2.9)
+Gut mode (check_v4_gut.py): pair threshold 0.187 (v3) -> 0.123-0.146 (v4); B alone / F alone no success up to inoculum 10
+Note: earlier criterion 'acetate falls 8->24h' dropped: depends on unknown initial inoculum.

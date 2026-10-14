@@ -1,0 +1,4 @@
+co-culture butyrate at 24 h: 10.0 mM  (Rio15: about 8)
+co-culture acetate: peak 7.5 mM at 9 h, 1.8 mM at 24 h
+B alone acetate at 24 h: 9.9 mM;  F alone butyrate: 0.00 mM
+starch-like case butyrate at 24 h: 4.2 mM  (Rio15: 2.9)

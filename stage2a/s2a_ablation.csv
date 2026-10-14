@@ -1,0 +1,11 @@
+variant,pair,F_alone,B_alone
+Full model,0.18710153369408128,,
+No cross-feeding (aB=0),,,
+No butyrate -> O feedback,,,
+Pathogen indifferent to O,,,
+"No oxygen stress on B, F",0.13291910605023147,,
+Weakly acetate-dependent F (eps=0.5),0.4608406859314702,,
+Competition only,,,
+"Niche route, weak competitors",,,
+"Niche route, strong O2-tolerant competitors",0.0010004640298978383,,
+Niche route + full machinery,0.2836637920190477,,
